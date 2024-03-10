@@ -1,0 +1,63 @@
+/* Write your CSS here */
+.home-container {
+}
+.home-image {
+  height: 700px;
+}
+.home-text {
+  font-family: 'Roboto';
+  font-size: 28px;
+  color: #ffffff;
+}
+.buttn {
+  border-width: 0px;
+  background-color: transparent;
+  margin-left: auto;
+}
+.react-icon-style {
+  font-size: 60px;
+  color: #616e7c;
+  align-self: flex-end;
+  background-color: transparent;
+  border-width: 0px;
+  margin-left: auto;
+}
+.container-popup-style {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+}
+.content-container {
+  margin-top: 50px;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+
+  justify-content: center;
+  align-items: center;
+}
+.pop-up-style {
+  margin-left: auto;
+}
+.home-text {
+  font-family: 'Roboto';
+  font-size: 36px;
+  color: #121314de;
+  font-weight: 800;
+  margin-left: 5px;
+}
+.home-icon {
+  font-size: 60px;
+}
+.link-style {
+  color: black;
+  text-decoration: none;
+}
+.container-home-header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
